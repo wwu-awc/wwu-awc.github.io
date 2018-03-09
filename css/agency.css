@@ -605,6 +605,27 @@ section h3.section-subheading#tshirt-p{
     }
 }
 
+
+
+.donate-style a{ 
+    display: block; 
+    text-align: center;
+    text-decoration: none; 
+    padding: 10px; 
+    border: thick solid yellow; 
+    background-color: cornsilk; 
+    color: black; 
+    width: 200px; 
+    height: auto; 
+    font-size: 20px; 
+}
+
+.donate-style a:hover{
+    border: thick solid cornsilk; 
+    background: yellow; 
+    font-weight: 600; 
+}
+
 .timeline {
     position: relative;
     padding: 0;
